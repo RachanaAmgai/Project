@@ -8,10 +8,13 @@ Welcome to my Data Science Project Portfolio! This repository showcases a collec
 The primary purpose of this project is to apply machine learning techniques to predict real-world outcomes using structured data. Each project in this portfolio addresses a unique business problem—such as customer churn, credit default, or sales forecasting—with the goal of delivering actionable insights that can support smarter decision-making.
 
 This portfolio serves as:
-Demonstrate practical applications of data science in business contexts
-Improve prediction accuracy through proper preprocessing, modeling, and evaluation
-Promote responsible AI practices using interpretability tools like SHAP and LIME
-Support organizations in minimizing risk, optimizing operations, and enhancing customer experience
+- Demonstrate practical applications of data science in business contexts
+
+- Improve prediction accuracy through proper preprocessing, modeling, and evaluation
+
+- Promote responsible AI practices using interpretability tools like SHAP and LIME
+
+- Support organizations in minimizing risk, optimizing operations, and enhancing customer experience
 ---
 
 ##  Project Categories
